@@ -9,7 +9,7 @@ Bike Riding<be>, Filmmaking, Audio Mixing, Videography
 Built with HTML, CSS, JavaScript, and formBuilder.js, the platform enables users to create, preview, and share customizable forms with themes, analytics, and export options. Data is securely handled using Firebase Auth and Firestore, while responses are managed through a custom-built interface supporting sheet view, graph view (powered by Chart.js), and individual response view. Export options include CSV, Excel, and PDF formats using SheetJS and jsPDF. Hosted on Netlify with code managed on GitHub, the tool empowers users with complete control over form creation and response management, eliminating the need for third-party integrations.
 [Visit now](thecma.xyz)
 <br>
-### theCMA.xyz<br>theCMA.xyz
+### theCMA.xyz
 My personal portfolio website, built primarily with HTML5, CSS3, and a touch of JavaScript for interactivity. It's a fully static site hosted on GitHub Pages with a custom domain. theCMA.xyz showcases my tech projects, creative work, and personal milestones, all in one evolving space.
 [Visit now](forms.thecma.xyz)
 <br>
