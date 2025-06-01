@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on CMA Forms<br><br> I’m Chris Mathew Aje, pursuing my BCA at Kristu Jayanti College in Bengaluru. I enjoy digging into tech, discover and build things that work well to suit needs. Whether it’s web development, backend systems, or custom project setups, I am into figuring out how to make things simpler and smoother. I’ve had hands-on experience organizing my projects under subdomains on thecma.xyz, so it's organized and professional.<br>But I’m not all code and logic. I’ve got a creative side too, especially when it comes to design. I look into the details, how appealing it is, from layout to color choices. I’ve made websites for communities I’m part of and always try to make them feel fresh and intentional. Whether it’s for my portfolio or something I’m just experimenting with, I prefer building projects that reflect my personality. To me, creativity and tech go hand-in-hand, and I’m just taking it one step at a time, always trying to bridge the two.
+I’m Chris Mathew Aje, pursuing my BCA at Kristu Jayanti College in Bengaluru. I enjoy digging into tech, discover and build things that work well to suit needs. Whether it’s web development, backend systems, or custom project setups, I am into figuring out how to make things simpler and smoother. I’ve had hands-on experience organizing my projects under subdomains on thecma.xyz, so it's organized and professional.<br>But I’m not all code and logic. I’ve got a creative side too, especially when it comes to design. I look into the details, how appealing it is, from layout to color choices. I’ve made websites for communities I’m part of and always try to make them feel fresh and intentional. Whether it’s for my portfolio or something I’m just experimenting with, I prefer building projects that reflect my personality. To me, creativity and tech go hand-in-hand, and I’m just taking it one step at a time, always trying to bridge the two.
+
+## Skills
+Ethical Hacking<br>Information Security<br>Computer Networking<br>CyberSecurity<br>Figma<br>Canva<br>Git<br>Kali Linux<br>Vulnerability Assessment and Penetration Testing (VAPT)
+
+## Hobbies & Interests
+Bike Riding<be>, Filmmaking, Audio Mixing, Videography
+
+## Projects
+### forms.thecma.xyz (In Development)<br>Built with HTML, CSS, JavaScript, and formBuilder.js, the platform enables users to create, preview, and share customizable forms with themes, analytics, and export options. Data is securely handled using Firebase Auth and Firestore, while responses are managed through a custom-built interface supporting sheet view, graph view (powered by Chart.js), and individual response view. Export options include CSV, Excel, and PDF formats using SheetJS and jsPDF. Hosted on Netlify with code managed on GitHub, the tool empowers users with complete control over form creation and response management, eliminating the need for third-party integrations.
+[Check this out](thecma.xyz)
+
+### theCMA.xyz<br>theCMA.xyz – My personal portfolio website, built primarily with HTML5, CSS3, and a touch of JavaScript for interactivity. It's a fully static site hosted on GitHub Pages with a custom domain. theCMA.xyz showcases my tech projects, creative work, and personal milestones, all in one evolving space.
+[Check this out](forms.thecma.xyz)
+
+### photos. thecma.xyz (Pre-development phase)<br>A facial recognition-based event photo organiser built with React, Tailwind CSS, and face-api.js. Guests upload a selfie to find their photos from event albums stored in the photographer’s own Cloudinary, Google Photos, or OneDrive. Each event gets a custom subdomain with full gallery view, logo watermarking, and studio branding. Hosted on Netlify with code on GitHub and optional backend via Firebase or Supabase.<br><br>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chrismat005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrismat_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chrismaje) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chrismat_05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chrismaje63@gmail.com) 
@@ -11,9 +27,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=chrismat-05&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismat-05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chrismat-05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -23,8 +36,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=chrismat-05&icon=0&color=13)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chrismat05) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chrismat05) 
