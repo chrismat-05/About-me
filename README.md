@@ -9,11 +9,11 @@ Bike Riding<be>, Filmmaking, Audio Mixing, Videography
 
 ## Projects
 ### forms.thecma.xyz (In Development)<br>Built with HTML, CSS, JavaScript, and formBuilder.js, the platform enables users to create, preview, and share customizable forms with themes, analytics, and export options. Data is securely handled using Firebase Auth and Firestore, while responses are managed through a custom-built interface supporting sheet view, graph view (powered by Chart.js), and individual response view. Export options include CSV, Excel, and PDF formats using SheetJS and jsPDF. Hosted on Netlify with code managed on GitHub, the tool empowers users with complete control over form creation and response management, eliminating the need for third-party integrations.
-[Check this out](thecma.xyz)
-
+[Visit now](thecma.xyz)
+<br>
 ### theCMA.xyz<br>theCMA.xyz – My personal portfolio website, built primarily with HTML5, CSS3, and a touch of JavaScript for interactivity. It's a fully static site hosted on GitHub Pages with a custom domain. theCMA.xyz showcases my tech projects, creative work, and personal milestones, all in one evolving space.
-[Check this out](forms.thecma.xyz)
-
+[Visit now](forms.thecma.xyz)
+<br>
 ### photos. thecma.xyz (Pre-development phase)<br>A facial recognition-based event photo organiser built with React, Tailwind CSS, and face-api.js. Guests upload a selfie to find their photos from event albums stored in the photographer’s own Cloudinary, Google Photos, or OneDrive. Each event gets a custom subdomain with full gallery view, logo watermarking, and studio branding. Hosted on Netlify with code on GitHub and optional backend via Firebase or Supabase.<br><br>
 
 
@@ -37,4 +37,4 @@ Bike Riding<be>, Filmmaking, Audio Mixing, Videography
 [![](https://visitcount.itsvg.in/api?id=chrismat-05&icon=0&color=13)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chrismat05) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chrismat05) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/chrismat05)
