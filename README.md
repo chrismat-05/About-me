@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m Chris Mathew Aje, pursuing my BCA at Kristu Jayanti College in Bengaluru. I enjoy digging into tech, discover and build things that work well to suit needs. Whether it’s web development, backend systems, or custom project setups, I am into figuring out how to make things simpler and smoother. I’ve had hands-on experience organizing my projects under subdomains on thecma.xyz, so it's organized and professional.<br>But I’m not all code and logic. I’ve got a creative side too, especially when it comes to design. I look into the details, how appealing it is, from layout to color choices. I’ve made websites for communities I’m part of and always try to make them feel fresh and intentional. Whether it’s for my portfolio or something I’m just experimenting with, I prefer building projects that reflect my personality. To me, creativity and tech go hand-in-hand, and I’m just taking it one step at a time, always trying to bridge the two.
 
-## Projects
+## 🚀 Projects
 ### forms.thecma.xyz (In Development)
 Built with HTML, CSS, JavaScript, and formBuilder.js, the platform enables users to create, preview, and share customizable forms with themes, analytics, and export options. Data is securely handled using Firebase Auth and Firestore, while responses are managed through a custom-built interface supporting sheet view, graph view (powered by Chart.js), and individual response view. Export options include CSV, Excel, and PDF formats using SheetJS and jsPDF. Hosted on Netlify with code managed on GitHub, the tool empowers users with complete control over form creation and response management, eliminating the need for third-party integrations.
 [Visit now](thecma.xyz)
@@ -18,10 +18,6 @@ My personal portfolio website, built primarily with HTML5, CSS3, and a touch of 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chrismat-05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chrismat-05&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismat-05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Just a Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chrismat05) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/chrismat05)
