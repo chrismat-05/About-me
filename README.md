@@ -9,10 +9,6 @@ Built with HTML, CSS, JavaScript, and formBuilder.js, the platform enables users
 ### theCMA.xyz
 My personal portfolio website, built primarily with HTML5, CSS3, and a touch of JavaScript for interactivity. It's a fully static site hosted on GitHub Pages with a custom domain. theCMA.xyz showcases my tech projects, creative work, and personal milestones, all in one evolving space.
 [Visit now](forms.thecma.xyz)
-<br>
-### photos. thecma.xyz (Pre-development phase)
-A facial recognition-based event photo organiser built with React, Tailwind CSS, and face-api.js. Guests upload a selfie to find their photos from event albums stored in the photographer’s own Cloudinary, Google Photos, or OneDrive. Each event gets a custom subdomain with full gallery view, logo watermarking, and studio branding. Hosted on Netlify with code on GitHub and optional backend via Firebase or Supabase.<br><br>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chrismat005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrismat_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chrismaje) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chrismat_05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chrismaje63@gmail.com) 
