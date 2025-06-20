@@ -2,13 +2,18 @@
 I’m Chris Mathew Aje, pursuing my BCA at Kristu Jayanti College in Bengaluru. I enjoy digging into tech, discover and build things that work well to suit needs. Whether it’s web development, backend systems, or custom project setups, I am into figuring out how to make things simpler and smoother. I’ve had hands-on experience organizing my projects under subdomains on thecma.xyz, so it's organized and professional.<br>But I’m not all code and logic. I’ve got a creative side too, especially when it comes to design. I look into the details, how appealing it is, from layout to color choices. I’ve made websites for communities I’m part of and always try to make them feel fresh and intentional. Whether it’s for my portfolio or something I’m just experimenting with, I prefer building projects that reflect my personality. To me, creativity and tech go hand-in-hand, and I’m just taking it one step at a time, always trying to bridge the two.
 
 ## 🚀 Projects
-### forms.thecma.xyz (In Development)
+### Major Projects
+#### forms.thecma.xyz (In Development)
 Built with HTML, CSS, JavaScript, and formBuilder.js, the platform enables users to create, preview, and share customizable forms with themes, analytics, and export options. Data is securely handled using Firebase Auth and Firestore, while responses are managed through a custom-built interface supporting sheet view, graph view (powered by Chart.js), and individual response view. Export options include CSV, Excel, and PDF formats using SheetJS and jsPDF. Hosted on Netlify with code managed on GitHub, the tool empowers users with complete control over form creation and response management, eliminating the need for third-party integrations.
-[Visit now](thecma.xyz)
+[Visit now](https://forms.thecma.xyz)
+### Major Projects
+#### API Peek
+A lightweight, developer-friendly API request debugger built using React, Tailwind CSS, Axios, and Framer Motion. It allows users to test HTTP methods like GET, POST, PUT, and DELETE by entering a URL, headers, and body, and instantly viewing a formatted response with status, headers, and even the time taken. Designed with an animated UI and no login or tracking, it's fully open source and perfect for developers who need a fast, focused tool to inspect APIs on the go.
+[Visit now](https://api.thecma.xyz/)
 <br>
-### theCMA.xyz
+#### theCMA.xyz
 My personal portfolio website, built primarily with HTML5, CSS3, and a touch of JavaScript for interactivity. It's a fully static site hosted on GitHub Pages with a custom domain. theCMA.xyz showcases my tech projects, creative work, and personal milestones, all in one evolving space.
-[Visit now](forms.thecma.xyz)
+[Visit now](https://thecma.xyz)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chrismat005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrismat_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chrismaje) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chrismat_05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chrismaje63@gmail.com) 
