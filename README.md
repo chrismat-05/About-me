@@ -7,9 +7,9 @@ I’m Chris Mathew Aje, pursuing my BCA at Kristu Jayanti College in Bengaluru. 
 Built with HTML, CSS, JavaScript, and formBuilder.js, the platform enables users to create, preview, and share customizable forms with themes, analytics, and export options. Data is securely handled using Firebase Auth and Firestore, while responses are managed through a custom-built interface supporting sheet view, graph view (powered by Chart.js), and individual response view. Export options include CSV, Excel, and PDF formats using SheetJS and jsPDF. Hosted on Netlify with code managed on GitHub, the tool empowers users with complete control over form creation and response management, eliminating the need for third-party integrations.
 [Visit now](https://forms.thecma.xyz)
 ### Major Projects
-#### API Peek
+#### Req API
 A lightweight, developer-friendly API request debugger built using React, Tailwind CSS, Axios, and Framer Motion. It allows users to test HTTP methods like GET, POST, PUT, and DELETE by entering a URL, headers, and body, and instantly viewing a formatted response with status, headers, and even the time taken. Designed with an animated UI and no login or tracking, it's fully open source and perfect for developers who need a fast, focused tool to inspect APIs on the go.
-[Visit now](https://apipeek.thecma.xyz/)
+[Visit now](https://reqapi.thecma.xyz/)
 <br>
 #### theCMA.xyz
 My personal portfolio website, built primarily with HTML5, CSS3, and a touch of JavaScript for interactivity. It's a fully static site hosted on GitHub Pages with a custom domain. theCMA.xyz showcases my tech projects, creative work, and personal milestones, all in one evolving space.
